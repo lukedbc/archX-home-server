@@ -1,0 +1,158 @@
+{
+  "devices": [
+    {
+      "id": "d3b07384-d9f8-4f41-b8d3-9d6d0b7b6e73",
+      "category": "speaker",
+      "deviceName": "Amazon Echo Dot (4th Gen)",
+      "deviceFactoryName": "Amazon",
+      "place": "Bedroom",
+      "valueHighlight": "Alexa Voice Assistant",
+      "enabled": false,
+      "metadata": {
+        "color": "Charcoal",
+        "connectivity": "Bluetooth, Wi-Fi",
+        "compatibility": "Smart Home Devices"
+      }
+    },
+    {
+      "id": "3e8d7d9f-d05b-4a0f-bc08-3c8b8f9d4f1a",
+      "category": "tv",
+      "deviceName": "Samsung QLED Q90T",
+      "deviceFactoryName": "Samsung",
+      "place": "Living Room",
+      "valueHighlight": "Quantum HDR",
+      "enabled": true,
+      "metadata": {
+        "size": "65 inches",
+        "resolution": "4K",
+        "smartFeatures": "Tizen OS"
+      }
+    },
+    {
+      "id": "d64d29a8-80b4-4a48-8a6d-ffb7b3c5e4a4",
+      "category": "lock",
+      "deviceName": "Smart Lock Pro",
+      "deviceFactoryName": "August",
+      "place": "Front Door",
+      "valueHighlight": "Keyless Entry",
+      "enabled": true,
+      "metadata": {
+        "color": "Silver",
+        "connectivity": "Wi-Fi",
+        "compatibility": "Smart Home Integration"
+      }
+    },
+    {
+      "id": "e0c4e4d4-2f8b-4a2a-9c8d-8e5b4b5a6c7d",
+      "category": "ac",
+      "deviceName": "Nest Learning Thermostat",
+      "deviceFactoryName": "Google",
+      "place": "Living Room",
+      "valueHighlight": "Energy Saving",
+      "enabled": true,
+      "metadata": {
+        "color": "Stainless Steel",
+        "compatibility": "Smart Home Integration",
+        "sensors": "Temperature, Humidity"
+      }
+    },
+    {
+      "id": "c9d56d4b-81b4-45a8-9a6d-ffb7b3c5e4a4",
+      "category": "light",
+      "deviceName": "Philips Hue White and Color Ambiance Starter Kit",
+      "deviceFactoryName": "Philips",
+      "place": "Living Room",
+      "valueHighlight": "Millions of Colors",
+      "enabled": true,
+      "metadata": {
+        "bulbType": "LED",
+        "connectivity": "Bluetooth, Zigbee, Wi-Fi",
+        "compatibility": "Smart Home Integration"
+      }
+    },
+    {
+      "id": "a6d7f9d8-4f8b-4c4a-9b7a-5e6d5d5b7c8f",
+      "category": "speaker",
+      "deviceName": "Google Nest Mini (2nd Gen)",
+      "deviceFactoryName": "Google",
+      "place": "Kitchen",
+      "valueHighlight": "Voice-controlled Speaker",
+      "enabled": true,
+      "metadata": {
+        "color": "Chalk",
+        "connectivity": "Wi-Fi",
+        "compatibility": "Smart Home Devices"
+      }
+    },
+    {
+      "id": "b7c8d9f8-5e6d-4b4a-9f7a-6e7d6d6b8c9f",
+      "category": "tv",
+      "deviceName": "LG OLED CX Series",
+      "deviceFactoryName": "LG",
+      "place": "Home Theater",
+      "valueHighlight": "Perfect Black, Infinite Contrast",
+      "enabled": true,
+      "metadata": {
+        "size": "55 inches",
+        "resolution": "4K",
+        "smartFeatures": "webOS"
+      }
+    },
+    {
+      "id": "e5d4c3b2-8f7a-4d4a-9b7a-5e6d6d6b8c7e",
+      "category": "lock",
+      "deviceName": "August Wi-Fi Smart Lock",
+      "deviceFactoryName": "August",
+      "place": "Back Door",
+      "valueHighlight": "Remote Access Control",
+      "enabled": true,
+      "metadata": {
+        "color": "Matte Black",
+        "connectivity": "Wi-Fi, Bluetooth",
+        "compatibility": "Smart Home Integration"
+      }
+    },
+    {
+      "id": "d3e4c5f6-7a8b-4a4b-9b7a-6e5d6d6b8c9d",
+      "category": "ac",
+      "deviceName": "Ecobee SmartThermostat with Voice Control",
+      "deviceFactoryName": "Ecobee",
+      "place": "Bedroom",
+      "valueHighlight": "Built-in Alexa Voice Control",
+      "enabled": true,
+      "metadata": {
+        "color": "Black",
+        "compatibility": "Smart Home Integration",
+        "sensors": "Temperature, Occupancy"
+      }
+    },
+    {
+      "id": "f7e6d5c4-8b7a-4d4a-9c8d-7e6d6d6b9c8e",
+      "category": "light",
+      "deviceName": "LIFX Color 1000 Smart Bulb",
+      "deviceFactoryName": "LIFX",
+      "place": "Bedroom",
+      "valueHighlight": "16 Million Colors",
+      "enabled": true,
+      "metadata": {
+        "bulbType": "LED",
+        "connectivity": "Wi-Fi",
+        "compatibility": "Smart Home Integration"
+      }
+    },
+    {
+      "id": "c3d2e1f0-9a8b-4a4b-9c8d-7e6d7d7b8c8f",
+      "category": "speaker",
+      "deviceName": "Sonos One",
+      "deviceFactoryName": "Sonos",
+      "place": "Living Room",
+      "valueHighlight": "Voice Controlled Smart Speaker",
+      "enabled": true,
+      "metadata": {
+        "color": "Black",
+        "connectivity": "Wi-Fi",
+        "compatibility": "Smart Home Devices"
+      }
+    }
+  ]
+}
